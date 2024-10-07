@@ -13,6 +13,7 @@
     <plurals name="n_selected">
         <item quantity="other">%d selected</item>
     </plurals>
+    
 
     <!-- Home -->
     <string name="history">History</string>
