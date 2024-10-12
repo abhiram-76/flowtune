@@ -39,6 +39,12 @@
     alt="Get it on GitHub"
     height="80">](https://github.com/abhiram-76/flowtune/releases/latest)
 
+## Note for Developer's 
+- Fork the **Dev** Branch to get source
+- App must be signed with your **Keystore**
+- credit must be given to the respective authors
+
+
     
 ## Acknowledgments
 - [**YouTube-Internal-Clients**](https://github.com/zerodytrash/YouTube-Internal-Clients): A python script that discovers hidden YouTube API clients. Just a research project.
